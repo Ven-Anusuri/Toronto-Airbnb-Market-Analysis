@@ -154,5 +154,5 @@ Toronto-Airbnb-Market-Analysis/
 
 🔗 [Project 1 — Canadian Big 5 Banks Stock Dashboard](https://github.com/Ven-Anusuri/canadian-banks-stock-dashboard)
 🔗 [Project 2 — Customer Financial Profile Analysis](https://github.com/Ven-Anusuri/customer-financial-profile-analysis)
-🔗 [project 3 - Loan Approval Analytics intrest Rtae Impact](https://github.com/Ven-Anusuri/Loan-Approval-Analytics-Interest-Rate-Impact)
+🔗 [project 3 - Loan Approval Analytics intrest Rate Impact](https://github.com/Ven-Anusuri/Loan-Approval-Analytics-Interest-Rate-Impact)
 
